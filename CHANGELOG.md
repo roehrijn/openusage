@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.23.1](https://github.com/janekbaraniewski/openusage/compare/v0.23.0...v0.23.1) (2026-07-13)
+
+
+### Dependencies
+
+* **deps:** bump github.com/klauspost/compress from 1.18.6 to 1.19.0 in the go-minor-and-patch group ([#244](https://github.com/janekbaraniewski/openusage/issues/244)) ([ce37d1a](https://github.com/janekbaraniewski/openusage/commit/ce37d1a71ca1791265673b8c5c5c9cbb444dbec3))
+* **deps:** bump the go-minor-and-patch group with 4 updates ([#252](https://github.com/janekbaraniewski/openusage/issues/252)) ([fec6976](https://github.com/janekbaraniewski/openusage/commit/fec69760edd7722f4c4b762b3ba5ee1bedccb60d))
+* **docs:** bump posthog-js from 1.396.0 to 1.396.7 in /docs/site in the docs-minor-and-patch group ([#245](https://github.com/janekbaraniewski/openusage/issues/245)) ([fd8d37d](https://github.com/janekbaraniewski/openusage/commit/fd8d37d4d8b2f22f1e7cd05db506fc88fb50a53f))
+* **docs:** bump the docs-minor-and-patch group in /docs/site with 8 updates ([#254](https://github.com/janekbaraniewski/openusage/issues/254)) ([42e7c85](https://github.com/janekbaraniewski/openusage/commit/42e7c85428f61bbd4918da215cb79a5647d0f831))
+* **docs:** bump typescript from 6.0.3 to 7.0.2 in /docs/site ([#255](https://github.com/janekbaraniewski/openusage/issues/255)) ([d2dbac1](https://github.com/janekbaraniewski/openusage/commit/d2dbac118d4d719caf8901ab2608c2804785f4fd))
+* **website:** bump the website-minor-and-patch group in /website with 2 updates ([#253](https://github.com/janekbaraniewski/openusage/issues/253)) ([6a828e6](https://github.com/janekbaraniewski/openusage/commit/6a828e6297cbf18eda3c38503616919f04d34169))
+* **website:** bump the website-minor-and-patch group in /website with 3 updates ([#246](https://github.com/janekbaraniewski/openusage/issues/246)) ([4701ae4](https://github.com/janekbaraniewski/openusage/commit/4701ae4ea1e615852c3a9bfb2b87d3b22528ca09))
+
 ## [0.23.0](https://github.com/janekbaraniewski/openusage/compare/v0.22.0...v0.23.0) (2026-07-05)
 
 
